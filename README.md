@@ -15,3 +15,6 @@ $ pip install matplotlib
 
 11/3/21
 Added Linear Regression Plot tool, allows the user to input data for x and y axis. The program will then take the data and find the linear regression and coefficent of determination. All while printing all data values used in the calcuation so that the user is able to verify that data is correct and or find errors in the calcuation.
+
+11/22/21
+Added hypothesis test calculator making use of Student t-test formula's to compute the confidence of a mean value. This allows the user to determine if the mean is correct or not using a significance level.
